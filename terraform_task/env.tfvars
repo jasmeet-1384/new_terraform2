@@ -1,0 +1,5 @@
+region = "ap-south-1"
+instance_type = "t2.micro"
+key_name      = "ec2_test_key"
+subnet_id     = "subnet-00a37f795e5d6279c"
+vpc_id        = "vpc-fc865197"
